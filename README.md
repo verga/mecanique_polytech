@@ -7,7 +7,11 @@ Les fichiers `.ipynb` contienent des cahiers (notebooks) avec une brève explica
 * centre de masse, moment d'inertie, moment cinétique
 * dynamique, moment d'une force
 
-Vous devez avoir une installation "python" (par exemple [anaconda](https://www.anaconda.com/products/individual)), avec les bibliothèques scientifiques ([numpy](https://numpy.org/), [matplotlib](https://matplotlib.org/), [sympy](https://www.sympy.org/en/index.html), etc).
+La façon la plus directe (et efficace) pour utiliser les cahiers est de faire une installation sur votre ordinateur de "python" (par exemple anaconda), avec les bibliothèques scientifiques (numpy, matplotlib, sympy, etc).
+
+Cependant, vous pouvez aussi utiliser les cahiers directement sur un navigateur en suivant le lien:
+
+https://notebooks.gesis.org/binder/jupyter/user/verga-mecanique_polytech-48q0jq9h/lab/workspaces/auto-Z
 
 **Dernière modification**: 9 mars (barre calcul dans le repère du corps)
 
