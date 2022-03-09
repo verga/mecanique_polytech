@@ -1,0 +1,7 @@
+name: verga_meca
+channels:
+  - pip
+dependencies:
+  - numpy
+  - matplotlib
+  - sympy
