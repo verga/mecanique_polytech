@@ -1,6 +1,8 @@
 name: verga_meca
 channels:
-  - pip
+  - conda-forge
+  - defaults
+  - conda-forge/label/broken
 dependencies:
   - numpy
   - matplotlib
