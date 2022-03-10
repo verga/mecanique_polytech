@@ -11,6 +11,6 @@ La façon la plus directe (et efficace) pour utiliser les cahiers est de faire u
 
 Cependant, vous pouvez aussi utiliser les cahiers directement sur un navigateur en suivant le lien:
 
-https://notebooks.gesis.org/binder/jupyter/user/verga-mecanique_polytech-48q0jq9h/lab/workspaces/auto-Z
+https://mybinder.org/v2/gh/verga/mecanique_polytech/HEAD
 
 **Dernière modification**: 9 mars (barre calcul dans le repère du corps)
