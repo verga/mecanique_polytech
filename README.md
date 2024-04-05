@@ -1,7 +1,7 @@
-# Cours de mécanique (Polytech)
+# Cours de mécanique (Polytech')
 ## Cahiers jupyter
 
-Les fichiers `.ipynb` contienent des cahiers (notebooks) avec une brève explication de la théorie illustrée par des codes python (sympy):
+Les fichiers `.ipynb` contienent des cahiers (notebooks) avec une brève explication de la théorie illustrée par des codes python (sympy) et le corrigé de quelques TD:
 
 * rotations, angles d'Euler
 * centre de masse, moment d'inertie, moment cinétique
@@ -13,4 +13,4 @@ Cependant, vous pouvez aussi utiliser les cahiers directement sur un navigateur 
 
 https://mybinder.org/v2/gh/verga/mecanique_polytech/HEAD
 
-**Dernière modification**: 9 mars (barre calcul dans le repère du corps)
+(Attention: L'affichage de cahiers peut prendre plusieurs minutes.)
